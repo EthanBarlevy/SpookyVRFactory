@@ -1,1 +1,1 @@
-![Test]("C:\Users\platt\Documents\UnrealProjects\SpookyVRFactory\Saved\Screenshots\WindowsEditor\ScreenShot_0.png")
+![Test]("https://github.com/EthanBarlevy/SpookyVRFactory/blob/master/ScreenShot_2.png")
